@@ -31,4 +31,4 @@ Just crease it. Gently encourage it to be the shape it secretly wants to be.
 ![Inside](/images/inside.png)
 ![Acrylic Fitting](/images/acrylic-fitting.png)
 
-![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](88x31.png)
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](/images/88x31.png)
